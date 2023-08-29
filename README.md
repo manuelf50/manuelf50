@@ -6,5 +6,5 @@
  
 ### Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/631147962629881886?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/952370058624106526)
+[![Discord Presence](https://lanyard.cnrad.dev/api/952370058624106526idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/952370058624106526)
 
